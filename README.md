@@ -21,7 +21,7 @@
 
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=vincent1059x.vincent1059x)
+[![Profile views](https://visitor-badge.glitch.me/badge?page_id=vincent1059x.vincent1059x)](https://github.com/vincent1059x)
 [![Github](https://img.shields.io/github/followers/vincent1059x?label=Follow&style=social)](https://github.com/vincent1059x)
 
 - 🔭 I’m currently working at Shopee (one of the largest e-commerce platform in SEA) as a Business Intelligence Analyst/Developer.
